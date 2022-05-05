@@ -14,13 +14,7 @@ To write a program to implement the simple linear regression model for predictin
 4. 
 
 ## Program:
-```
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
-*/
-```
+
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
